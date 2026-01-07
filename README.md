@@ -1,3 +1,15 @@
+<p align="center">
+  <img src= "assets/anamoly3.png" width="85%">
+</p>
+
+<p align="center">
+  <b>Frame-level anomaly detection using CNN + ConvLSTM</b><br>
+  High anomaly score highlighted during abnormal motion.
+</p>
+
+
+
+
 # Pixel-Play
 Pixel play '26  VLG IITR Submission
 
